@@ -49,7 +49,7 @@ export default function Hero({ scrollToSection }) {
 
               {/* Download Resume — Solid Blue */}
               <a
-                href="/resume.pdf"
+                href="/resume1.pdf"
                 download
                 className="px-6 sm:px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition shadow-lg hover:shadow-blue-500/25 text-sm sm:text-base font-medium inline-block"
               >
